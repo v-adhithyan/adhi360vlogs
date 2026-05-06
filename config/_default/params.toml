@@ -1,0 +1,16 @@
+mainSections = ["posts"]
+
+[sidebar]
+subtitle = "Travel stories, trains, Europe journeys and experiences"
+
+[footer]
+since = 2026
+
+[article]
+headingAnchor = false
+math = false
+readingTime = true
+
+[opengraph.twitter]
+site = ""
+card = "summary_large_image"

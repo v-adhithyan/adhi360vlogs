@@ -1,0 +1,14 @@
+baseURL = "https://adhi360vlogs.info"
+title = "Adhi 360 Vlogs"
+theme = "hugo-theme-stack"
+defaultContentLanguage = "en"
+contentDir = "blog/content"
+staticDir = "blog/static"
+
+[pagination]
+pagerSize = 5
+
+[languages]
+[languages.en]
+languageName = "English"
+weight = 1
